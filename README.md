@@ -1,2 +1,2 @@
-# Exam-Preparation-APP
+# APP
 Created with CodeSandbox
